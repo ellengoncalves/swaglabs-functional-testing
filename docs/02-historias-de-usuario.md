@@ -443,6 +443,8 @@ Cenário: Cliente tenta avançar no checkout sem preencher dados obrigatórios
 
 ![Quadro de Backlog no JIRA](../assets/Backlog_final_Histórias_de_Usuário.png)
 
+No planejamento inicial, as histórias relacionadas ao épico **EPIC-001 - Autenticação de Usuário** foram adicionadas à **SWAG Sprint 1**. As histórias dos épicos **EPIC-002 - Catálogo de Produtos** e **EPIC-003 - Carrinho e Checkout** permaneceram no **Backlog** para refinamento e planejamento em sprints futuras.
+
 ## Observações para refinamento
 
 As histórias descritas neste documento devem ser discutidas com a equipe durante o refinamento. A partir dessa conversa, podem ser ajustados escopo, prioridade, estimativa, dependências técnicas e critérios de aceite.
