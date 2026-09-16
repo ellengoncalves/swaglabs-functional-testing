@@ -50,3 +50,8 @@ O Confluence será considerado como ferramenta de colaboração e documentação
 ## Documentação
 
 - [Planejamento do fluxo de trabalho](docs/01-planejamento-fluxo-trabalho.md)
+- [Histórias de usuário](docs/02-historias-de-usuario.md)
+
+## Entregáveis em PDF
+
+- `output/pdf/historias-de-usuario-swag-labs.pdf`
