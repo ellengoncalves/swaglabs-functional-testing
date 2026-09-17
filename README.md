@@ -1,4 +1,4 @@
-# Swag Labs QA Manual Testing
+# Swag Labs Functional Testing
 
 Repositório de estudos e entregas do curso **O dia a dia de um QA: a prática de testes manuais funcionais - DIO**.
 
@@ -10,7 +10,7 @@ O objetivo deste projeto é documentar o planejamento, os fluxos de trabalho, hi
 - **Contexto:** Loja virtual para prática de testes
 - **Metodologia ágil:** Scrum
 - **Gerenciamento do projeto:** JIRA
-- **Colaboração e documentação:** Confluence
+- **Documentação do projeto:** GitHub
 - **Execução dos testes:** Manual
 - **Nível dos testes:** Sistema e aceite
 - **Tipo dos testes:** Funcional caixa-preta
@@ -43,11 +43,14 @@ O JIRA foi utilizado para o gerenciamento do projeto e para a criação manual d
 - integração com outras aplicações
 - apoio à comunicação entre pessoas de produto, desenvolvimento e QA
 
-### Confluence
+## Projeto no JIRA
 
-O Confluence será considerado como ferramenta de colaboração e documentação do projeto. Ele funciona como um espaço de trabalho colaborativo para gestão de conhecimento. Em conjunto com o JIRA, auxilia na centralização de informações importantes do projeto, como regras de negócio, documentação de teste, decisões do time, critérios de aceite e registros de aprendizado.
+O projeto também pode ser consultado no JIRA:
+
+- [SwagLabShopping - JIRA](https://ellenprojects.atlassian.net/jira/software/projects/SWAG/boards/3?filter=&groupBy=none&atlOrigin=eyJpIjoiM2Q3ZTZkMDcwZTcxNDQ4M2E2NjU2NWY1ZTg0ZWFjMjUiLCJwIjoiaiJ9)
 
 ## Documentação
 
 - [Planejamento do fluxo de trabalho](docs/01-planejamento-fluxo-trabalho.md)
 - [Histórias de usuário](docs/02-historias-de-usuario.md)
+- [Documentação de testes](docs/03-documentacao-de-testes.md)

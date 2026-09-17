@@ -49,7 +49,7 @@ O status `Blocked` permanece na categoria **Fazendo** porque o item ainda não f
 
 ## Diagrama de estados e transições
 
-![Diagrama de estados e transições do fluxo de trabalho](../assets/Diagrama_estados_transições_JIRA_SwagLabs.png)
+![Diagrama de estados e transições do fluxo de trabalho](../assets/fluxo-trabalho/Diagrama_estados_transições_JIRA_SwagLabs.png)
 
 ## Regras de transição
 
